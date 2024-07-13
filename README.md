@@ -56,7 +56,9 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 Create a MySQL database and update the application.properties file with your database credentials:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/db_name
+
 spring.datasource.username=db_username
+
 spring.datasource.password=db_password
 
 3. **Build and Run the Application:**
